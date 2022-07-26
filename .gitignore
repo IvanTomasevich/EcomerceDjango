@@ -1,3 +1,4 @@
 # Environments
 /venv/
 /.idea/
+/Ecommerce/db.sqlite3
